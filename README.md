@@ -12,7 +12,7 @@ project/
 ├── styles.css        Stylesheet — layout, components, responsive design
 ├── script.js         JavaScript — carousel, sticky header, forms, tabs, etc.
 ├── README.md         This file
-└── assets/
+└── assets            Images
     
 ```
 
