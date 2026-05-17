@@ -13,9 +13,7 @@ project/
 ├── script.js         JavaScript — carousel, sticky header, forms, tabs, etc.
 ├── README.md         This file
 └── assets/
-    ├── images/       Product photos, hero images, application cards
-    ├── fonts/        Self-hosted font files (if moving off Google Fonts CDN)
-    └── icons/        Favicon, Open Graph image, app icons
+    
 ```
 
 ---
